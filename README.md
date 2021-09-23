@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...c,.py,.html,.java
 - 💞️ I’m looking to collaborate on ...Project Works
 - 📫 How to reach me 
--       ...NO ..find me 
+-       www.linkedin.com/in/amal-sebastian1
 
 <!---
 amal404/amal404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
