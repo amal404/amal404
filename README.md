@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...c,.py,.html,.java
 - 💞️ I’m looking to collaborate on ...Project Works
 - 📫 How to reach me 
--       www.linkedin.com/in/amal-sebastian1
+-       https://www.linkedin.com/in/amaIsebastian/
 <a href="https://app.daily.dev/Amal697"><img src="https://api.daily.dev/devcards/2d40847fbcd1448fabac8d4be8532005.png?r=a8s" width="400" alt="Amal Sebastian's Dev Card"/></a>       
 
 
